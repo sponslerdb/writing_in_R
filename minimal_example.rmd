@@ -1,0 +1,27 @@
+---
+title: "Minimal example of writing in R"
+author: "Doug Sponsler"
+date: '2022-12-14'
+output: pdf_document
+bibliography: 
+  - references.bib
+csl: ecology.csl
+---
+
+# Introduction
+
+<!-- square brackets give you (author, year) -->
+
+We should always do statistics within the context of explicit causal model [@Addicott2022-vb].
+
+<!-- no brackets give you author (year) -->
+
+@McElreath2020-vq says this better than I can.
+
+# Methods
+
+# Results
+
+# Discussion
+
+# References
